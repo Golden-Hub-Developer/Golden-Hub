@@ -1,6 +1,7 @@
 local Games = {
    [4566572536] = "https://raw.githubusercontent.com/Golden-Hub-Developer/Golden-Hub/main/Vehicle%20Legends.lua", -- Vehicle Legends
    [4410049285] = "https://raw.githubusercontent.com/Golden-Hub-Developer/Golden-Hub/main/Driving%20Simulator.lua", -- Vehicle Legends
+   [1554960397] = "https://raw.githubusercontent.com/Golden-Hub-Developer/Golden-Hub/main/Car%20Dealership%20Tycoon.lua", -- Vehicle Legends
 }
 
 if Games[game.PlaceId] then
